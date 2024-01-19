@@ -1,1 +1,9 @@
-Hello world
+Hello world updated 2
+
+git add .
+git commit -m "y nghia"
+git push origin nhánh hiện tại
+
+git branch ten
+git checkout ten nhanh
+
