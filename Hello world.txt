@@ -1,1 +1,5 @@
 Hello world
+
+git add .
+git commit -m "y nghia"
+git push origin nhánh hiện tại
